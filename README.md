@@ -1,5 +1,7 @@
 # Površinska napetost
 
+Rezultat projekta je olakšavanje rada djelatnika Ininog laboratorija kako isti proces računanja površinske napetosti medotom viseće kapljice ne bi trebao izvoditi ručno.
+
 ## Metoda viseće kapljice
 
 **Inin laboratorij**
