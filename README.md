@@ -2,9 +2,7 @@
 
 ## Metoda viseće kapljice
 
-### Jedna od metoda određivanja površinske napetosti nafte je metoda viseće kapljice.
-
-#### Inin laboratorij
+### Inin laboratorij
 
 U komoru uređaja ispunjenog jednim fluidom koji može biti pri atmosferskom ili pri povišenom tlaku se utiskuje kroz kapilarnu cijev uzorak nafte.
 Uzorak nafte poprima oblik kapljice. Zatim se fotografira taj isti uzorak s određene udaljenosti. 
